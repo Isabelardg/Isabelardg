@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Me chamo Isabela Rodrigues e sou estudante de Sistemas de Informação na Universidade LaSalle. Tenho uma enorme admiração pela tecnologia e pelo impacto positivo que ela pode gerar no nosso dia a dia e na sociedade como um todo. Ao longo da minha jornada, sempre busco aprender mais sobre as diversas áreas do setor, com o objetivo de melhorar minhas habilidades técnicas e comportamentais.<br><br>Além dos meus estudos acadêmicos, estou sempre explorando novas ferramentas, linguagens de programação e conceitos de forma independente. Acredito que aprender por conta própria é essencial para estar sempre atualizada e preparada para os desafios do mercado de tecnologia.<br><br>Sou movida pela curiosidade e pelo desejo de crescer constantemente. Por isso, estou sempre me envolvendo em projetos acadêmicos e atividades extracurriculares, que me permitem aprimorar meus conhecimentos e colaborar com outras pessoas.<br><br>Neste GitHub, compartilho a minha trajetória como desenvolvedora: meus projetos, estudos e aprendizados. Uso esse espaço como um registro da minha evolução e uma maneira de refletir sobre o meu progresso e minhas criações.<br><br>Estou aberta a novas conexões, trocas de conhecimento e oportunidades para seguir me desenvolvendo na área de tecnologia.</p>
+<p align="left">Sou estudante de Sistemas de Informação na Universidade LaSalle e tenho um grande interesse pelo impacto positivo que a tecnologia pode gerar no nosso dia a dia e na sociedade como um todo.<br><br>Sou uma pessoa curiosa, com facilidade para aprender, que gosta de trabalhar em equipe e está sempre em busca de evoluir, aprimorar meus conhecimentos e colaborar com outras pessoas. Acredito que aprender de forma contínua e por conta própria é uma maneira de acompanhar as inovações e me preparar para os desafios do setor.<br><br>Além dos estudos acadêmicos, gosto de explorar diferentes linguagens, ferramentas e conceitos por iniciativa própria. Entender como as coisas funcionam na prática é algo que me motiva e torna a jornada ainda mais interessante.<br><br>Neste GitHub, compartilho parte da minha trajetória como estudante e desenvolvedora: projetos, aprendizados e experiências que marcam meu crescimento. Encaro esse espaço como uma forma de acompanhar minha evolução e me expressar através da tecnologia.<br><br>Estou aberta a novas conexões, trocas de conhecimento e oportunidades para seguir me desenvolvendo na área de tecnologia.</p>
 
 ###
 
@@ -40,5 +40,9 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/isabelardg/isabelardg/output/snake.svg" alt="Snake animation" />
 
 ###
