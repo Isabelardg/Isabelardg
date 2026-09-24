@@ -4,37 +4,43 @@
 
 ###
 
-<p align="left">Me chamo Isabela e sou estudante de Sistemas de Informação na Universidade LaSalle e tenho um grande interesse pelo impacto positivo que a tecnologia pode gerar no nosso dia a dia e na sociedade como um todo.<br><br>Sou uma pessoa curiosa, com facilidade para aprender, que gosta de trabalhar em equipe e está sempre em busca de evoluir, aprimorar conhecimentos e colaborar com outras pessoas. Acredito que aprender de forma contínua e por conta própria é uma maneira de acompanhar as inovações e me preparar para os desafios do setor.<br><br>Além dos estudos acadêmicos, gosto de explorar diferentes linguagens, ferramentas e conceitos por iniciativa própria. Entender como as coisas funcionam na prática é algo que me motiva e torna a jornada ainda mais interessante.<br><br>Neste GitHub, compartilho parte da minha trajetória como estudante e desenvolvedora: projetos, aprendizados e experiências que marcam meu crescimento. Encaro esse espaço como uma forma de acompanhar minha evolução e me expressar através da tecnologia.<br><br>Estou aberta a novas conexões, trocas de conhecimento e oportunidades para seguir me desenvolvendo na área de tecnologia.</p>
+<p align="left">Me chamo Isabela e sou estudante de Sistemas de Informação na Universidade La Salle. Sou apaixonada por tecnologia e gosto de entender como as coisas funcionam, principalmente quando posso colocar a mão na massa e transformar uma ideia em algo que realmente funciona.<br><br>
+Tenho bastante curiosidade por diferentes áreas da tecnologia e, ao longo da minha trajetória, fui me interessando cada vez mais por desenvolvimento, Inteligência Artificial, dados e automação. Gosto de experimentar novas ferramentas, aprender por conta própria e transformar o que estudo em projetos práticos.<br><br>
+Aqui no GitHub compartilho um pouco dessa jornada: projetos que desenvolvi durante meus estudos, ideias que resolvi tirar do papel e coisas novas que estou aprendendo pelo caminho. Cada projeto acaba sendo uma oportunidade de testar algo diferente, aprender com os erros e evoluir um pouco mais.<br><br>
 
 ###
 
 ## Linguagens e Tecnologias
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+  <img width="40px" title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img width="40px" title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img width="40px" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img width="40px" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img width="40px" title="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+  <img width="40px" title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  <img width="40px" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img width="40px" title="SQLite" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
+  <img width="40px" title="Oracle" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
+  <img width="40px" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img width="40px" title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+  <img width="40px" title="FastAPI" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
+  <img width="40px" title="Streamlit" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" />
 </div>
 
 ## Ferramentas
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img width="40px" src="https://cdn.simpleicons.org/n8n/EA4B71" />
+  <img width="40px" title="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+  <img width="40px" title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+  <img width="40px" title="Eclipse" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
+  <img width="40px" title="PyCharm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
+  <img width="40px" title="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+  <img width="40px" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img width="40px" title="n8n" src="https://cdn.simpleicons.org/n8n/EA4B71" />
 </div>
+
+
 
 
 ###
